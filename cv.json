@@ -7,7 +7,6 @@
     "phone": "+1 (709) 325-7081",
     "url": "https://sarthak.page",
     "summary": "Software Developer with 2 years of experience specializing in full-stack development. Proficient in SaaS-based products and adept at building scalable software solutions.",
-    "theme": "dark",
     "location": {
       "address": "",
       "postalCode": "A1B 2C3",
@@ -98,25 +97,26 @@
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "Canada Learning Code",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "url": "https://www.canadalearningcode.ca/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-08-01",
       "summary": "Helped organize coding workshops and mentored new members.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        ""
       ]
     },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "organization": "Invincible NGO",
+      "position": "Instructor",
+      "url": "https://invinciblengo.org/",
+      "startDate": "2020-02-01",
+      "endDate": "2022-08-01",
+      "summary": "Helped organize camps and adventure activities among youth.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Organized 5+ camps for over 100 youth",
+        "Organized adventure activities like rock climbing, trekking, etc."
       ]
     }
   ],
