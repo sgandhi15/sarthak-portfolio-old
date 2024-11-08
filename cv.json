@@ -68,7 +68,7 @@
       "position": "Software Developer - Team Lead",
       "location_type": "Remote",
       "location": "Vadodara, Gujarat",
-      "url": "",
+      "url": "https://www.linkedin.com/company/creadigol/",
       "startDate": "2020-12-01",
       "endDate": "2022-08-20",
       "summary": "Assisting in the development and maintenance of software applications using Python and TypeScript. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
@@ -158,12 +158,55 @@
   ],
   "skills": [
     {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Python"
+      ]
+    },
+    {
       "name": "Gitlab",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
         "Collaboration",
         "Source Code"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Backend"
       ]
     },
     {
@@ -253,16 +296,6 @@
         "SSR",
         "Static Generation"
       ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
@@ -284,58 +317,81 @@
       "name": "Technology",
       "keywords": [
         "AI",
-        "Blockchain"
+        "Web3",
+        "Blockchain",
+        "Web Development"
       ]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
+      "name": "Michael Babalola",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
+      "name": "NextResume",
+      "isActive": true,
+      "description": "An AI-powered resume builder that helps you tailor your resume to the job you're applying for.",
+      "highlights": [
+        "Built with Next.js, Tailwind CSS, Shadcn UI",
+        "Integrated OpenAI's API to generate resumes"
+      ],
+      "url": "https://nextresume.app/"
+    },
+    {
+      "name": "Kiderra",
+      "isActive": true,
+      "description": "A platform for parents to find daycare centres near them.",
+      "highlights": [
+        "Built with Next.js, Tailwind CSS and PostgreSQL",
+        "Led a team of 5 to build the MVP"
+      ],
+      "url": "https://kiderra.ca/"
+    },
+    {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-        "Built with React and Tailwind CSS",
+        "Built with Astro and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://sarthak.page",
+      "github": ""
+    },
+    {
+      "name": "GMDynasty",
+      "isActive": true,
+      "description": "An online american football fantasy platform based on Web3.",
+      "highlights": [
+        "Built with Nest.js, React + TypeScript",
+        "Secure payment integration with metamask"
+      ],
+      "url": "https://www.gmdynasty.com/"
     },
     {
       "name": "Weather App",
-      "isActive": true,
+      "isActive": false,
       "description": "A web application that provides weather information for any location.",
       "highlights": [
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://github.com/sgandhi15/weather-app",
+      "github": "https://github.com/sgandhi15/weather-app"
     },
     {
       "name": "Task Manager",
-      "isActive": true,
+      "isActive": false,
       "description": "A simple task management app to keep track of daily tasks.",
       "highlights": [
         "Built with Node.js and MongoDB",
         "User authentication and CRUD operations"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/sgandhi15/task-manager-api",
+      "github": "https://github.com/sgandhi15/task-manager-api"
     }
   ]
 }
