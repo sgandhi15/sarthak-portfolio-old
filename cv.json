@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sarthak Gandhi",
     "label": "Software Developer",
-    "image": "/me_avatar.jpg",
+    "image": "/avatar.jpg",
     "email": "gandhi.sarthak15@gmail.com",
     "phone": "+1 (709) 325-7081",
     "url": "https://sarthak.page",
@@ -90,9 +90,7 @@
         "PostgreSQL",
         "Git",
         "AWS",
-        "MongoDB",
-        "DigitalOcean"
-      ]
+        "MongoDB"      ]
     }
   ],
   "volunteer": [
@@ -199,14 +197,6 @@
       "keywords": [
         "Databases",
         "NoSQL"
-      ]
-    },
-    {
-      "name": "Firebase",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud",
-        "Backend"
       ]
     },
     {
