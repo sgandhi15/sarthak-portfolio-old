@@ -22,8 +22,8 @@
       },
       {
         "network": "X",
-        "username": "sgandhi153",
-        "url": "https://x.com/sgandhi153"
+        "username": "sarthak_xp",
+        "url": "https://x.com/sarthak_xp"
       },
       {
         "network": "GitHub",
@@ -35,16 +35,14 @@
   "work": [
     {
       "name": "MainOnePro Inc.",
-      "position": "Software Developer - Team Lead",
+      "position": "Software Developer",
       "location_type": "Remote",
       "location": "St. John's, Newfoundland and Labrador",
       "url": "https://mainonepro.com",
       "startDate": "2024-02-01",
       "endDate": "2024-04-01",
       "summary": "Developed a SaaS product MVP by leading a team of 5",
-      "highlights": [
-        "Developed a SaaS product MVP by leading a team of 5"
-      ],
+      "highlights": ["Developed a SaaS product MVP by leading a team of 5"],
       "responsibilities": [
         "Collaborated with stakeholders to design a scalable system architecture that aligns with business goals.",
         "Leveraged TypeScript and Next.js to develop a robust and efficient SaaS product.",
@@ -64,7 +62,7 @@
     },
     {
       "name": "Creadigol Solution",
-      "position": "Software Developer - Team Lead",
+      "position": "Software Developer",
       "location_type": "Remote",
       "location": "Vadodara, Gujarat",
       "url": "https://www.linkedin.com/company/creadigol/",
@@ -84,13 +82,7 @@
       "achievements": [
         "Successfully delivered projects on time and within budget, exceeding client expectations."
       ],
-      "skills": [
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Git",
-        "AWS",
-        "MongoDB"      ]
+      "skills": ["Python", "TypeScript", "PostgreSQL", "Git", "AWS", "MongoDB"]
     }
   ],
   "volunteer": [
@@ -101,9 +93,7 @@
       "startDate": "2024-01-01",
       "endDate": "2024-08-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "organization": "Invincible NGO",
@@ -158,64 +148,37 @@
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Python",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Python"
-      ]
+      "keywords": ["Web Development", "Backend", "Python"]
     },
     {
       "name": "Gitlab",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "PostgreSQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL"
-      ]
+      "keywords": ["Databases", "SQL"]
     },
     {
       "name": "MongoDB",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "NoSQL"
-      ]
+      "keywords": ["Databases", "NoSQL"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": [
-        "Containerization",
-        "Virtualization"
-      ]
+      "keywords": ["Containerization", "Virtualization"]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -240,41 +203,22 @@
     {
       "name": "Node",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "Next.js",
@@ -305,12 +249,7 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Web3",
-        "Blockchain",
-        "Web Development"
-      ]
+      "keywords": ["AI", "Web3", "Blockchain", "Web Development"]
     }
   ],
   "references": [
