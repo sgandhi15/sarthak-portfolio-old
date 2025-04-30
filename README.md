@@ -1,35 +1,64 @@
-## Sarthak's Portfolio
+# Personal Portfolio Website - Sarthak Gandhi
 
-## 🛠️ Stack
+A modern, responsive, and elegant portfolio website built with Astro and TailwindCSS. This website serves as a comprehensive showcase of my professional experience, skills, and projects.
 
-- [**Astro**](https://astro.build/) - The next-gen web framework.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with type syntax.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts made in pure JavaScript.
+## 🚀 Features
 
-## 🚀 Getting Started
+- **Responsive Design**: Fully responsive layout that looks great on desktop, tablet, and mobile devices
+- **Dark/Light Mode**: Dynamic theme switching capability for better user experience
+- **Print-Friendly**: Optimized layout for PDF generation and printing
+- **Performance Focused**: Built with Astro for excellent performance and minimal JavaScript
+- **Modern Stack**: Utilizing the latest web technologies and best practices
+- **Type-Safe**: Built with TypeScript for enhanced code reliability
+- **SEO Optimized**: Structured data and optimized meta tags for better search engine visibility
 
-### 1. Clone the repo       
+## 🛠️ Tech Stack
 
+- **Framework**: [Astro](https://astro.build/) - The web framework for content-driven websites
+- **Styling**: [TailwindCSS](https://tailwindcss.com/) - For modern, utility-first CSS
+- **Language**: [TypeScript](https://www.typescriptlang.org/) - For type-safe code
+- **Deployment**: Cloudflare Pages - For fast, global content delivery
+- **Package Manager**: pnpm - For efficient dependency management
+
+## 🏗️ Project Structure
+
+```
+/
+├── src/
+│   ├── components/
+│   ├── layouts/
+│   ├── pages/
+│   └── icons/
+├── public/
+└── package.json
+```
+
+## 🚦 Getting Started
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/sgandhi15/sarthak-portfolio.git
 ```
 
-### 2. Install dependencies
-
+2. Install dependencies:
 ```bash
 pnpm install
 ```
 
-### 3. Add Your Content:
-
-Edit the `cv.json` file to create your own printable Portfolio/CV.
-
-### 4. Launch the Development Server:
-
+3. Start the development server:
 ```bash
 pnpm dev
 ```
-Open [**http://localhost:4321**](http://localhost:4321/) in your browser to view the result 🚀
 
-### 5. Customisable colours:
-Change the data-theme of `cv.json` and choose one of the colour themes defined in theme.css, red, blue, green, cyber and default, with its variants in dark mode, or create your own.
+4. Build for production:
+```bash
+pnpm build
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+---
+
+Built by Sarthak Gandhi
